@@ -1,0 +1,11 @@
+a) 1, 3, 5, 7, 9, Sequência de números ímpares
+
+b) 128, Sequência dos multiplos de 2
+
+c) 49, Sequência da soma em uma outra sequência de números ímpares
+
+d) 100, Sequência de quadrados de números pares
+
+e) 13, Sequência da soma dos dois elementos anteriores
+
+f) 200, Sequência numerica dos numeros que começa com a letra D 
